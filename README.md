@@ -1,2 +1,2 @@
-# momo-chuchu
+# wow-moo
 Personal site under construction
